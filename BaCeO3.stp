@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+  <Version>17.1</Version>
+  <Reference>{A5880795-440E-4B31-AC4B-C0D0B9ACBDE5}</Reference>
+  <DocumentManager>
+    <Document>
+      <ID>{149A8C81-74C7-473A-9A8D-64EAB8E3E102}</ID>
+      <Paths>1</Paths>
+      <URL>.\BaCeO3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{3F27C070-C465-4DBB-8690-257FF31BC42F}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{AF47ED0D-E181-4A07-B2BC-7331334E9831}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{E3CEC38A-3BDB-42B7-9661-346A93066DB4}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{BA78A864-50EF-4FA6-830B-8B6F88BB58B5}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_BandStr.param</URL>
+    </Document>
+    <Document>
+      <ID>{3FB1CC65-6CC4-4957-8160-5ED0436F2CE3}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_DOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{21522E4F-6450-470A-86A5-E16BECCE8C92}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_Optics.param</URL>
+    </Document>
+    <Document>
+      <ID>{2847502E-C2AE-4371-8BB9-F58BF5747436}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_PhonDisp.param</URL>
+    </Document>
+    <Document>
+      <ID>{1BF7E5A2-9E8C-4554-8DFB-9475DD47368B}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_PhonDOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{D714E09F-C4CA-4A6F-92A0-2AE55FFD245E}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{D4AF8E66-8B56-4637-B794-695C6D064F4F}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FC2D1698-A1E2-487D-BB2C-D74095E565B4}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{4009D306-A415-4BB5-B252-E70C222A9E9B}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3502B319-C17B-4E4A-AA88-84B1265E76D3}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{37C5CE10-D94E-411C-9E2D-91F233A6FFAD}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{06E592CF-5BB9-4238-B243-51C38A2A4DB5}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_BandStr.castep</URL>
+    </Document>
+    <Document>
+      <ID>{1DF1D193-48F9-4BF4-B992-D3437BEB4A49}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_BandStr.bib</URL>
+    </Document>
+    <Document>
+      <ID>{D8F1E5A2-C275-42DC-858C-E4ABDAD86503}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_DOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{AB77C984-E324-4499-B8D4-3C9C7B0931F8}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_DOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{AEE7E769-0E1E-458C-B6B3-B5773825FB3B}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_Optics.castep</URL>
+    </Document>
+    <Document>
+      <ID>{11DCCC39-E67A-470A-AE63-69473C731429}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_Optics.bib</URL>
+    </Document>
+    <Document>
+      <ID>{5CE163B8-2A22-425C-8963-08954F2976CB}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_PhonDOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{D841BF5C-1714-4F5C-BA51-D2719D9F7839}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_PhonDOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{ED0D80CA-079B-4D5C-B61B-B8792E7F289D}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_PhonDisp.castep</URL>
+    </Document>
+    <Document>
+      <ID>{B81E937A-84AB-468F-B6ED-726F62601FF0}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3_PhonDisp.bib</URL>
+    </Document>
+    <Document>
+      <ID>{D2A17197-F566-4535-89F3-BF8FF28B7956}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{0E35D326-4C3B-4E69-9D74-0CE5C6148939}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{8D1FB73B-A5AB-401E-B945-06E6C7E52723}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{71E5F7D9-C3EB-4B08-9032-E7F27E178712}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_BandStr.param</URL>
+    </Document>
+    <Document>
+      <ID>{E09DC12B-2E18-498B-8374-BBE7839469F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_DOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{E25E7F38-6D23-4389-A516-4B5614E2E536}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_Optics.param</URL>
+    </Document>
+    <Document>
+      <ID>{CDCA85BB-80F2-4DDE-9DAD-BB00C0590352}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_PhonDisp.param</URL>
+    </Document>
+    <Document>
+      <ID>{44993D79-3FF6-48FD-92AA-D324A62A1061}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_PhonDOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{2CDD0DF8-AB19-4B18-8E46-07CA6B0891E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{8041920C-E39B-4EC5-B687-F51C5C966894}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{3E071B98-6497-4B02-BD57-CE6360772867}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{007359DE-FA9D-409F-85F8-FA8AE738A076}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{D71E69C1-9263-4C1B-8697-1100126CD5E8}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{53287792-6C9D-4A94-A261-4D240ED3FF8C}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{CB16D537-AF22-4B34-9108-6E6359A72288}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_BandStr.castep</URL>
+    </Document>
+    <Document>
+      <ID>{7DB24662-B058-4803-BAEA-6DE2DE5E6667}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_BandStr.bib</URL>
+    </Document>
+    <Document>
+      <ID>{751CB4DA-1890-4490-8519-6121CB51BC08}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_DOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{B37C43B3-2A52-4024-BBA9-5FA8B939A5D7}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_DOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{C5AE078C-ED71-49CD-88C0-E972FEDBCB24}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_Optics.castep</URL>
+    </Document>
+    <Document>
+      <ID>{36C416C0-BDD4-469C-A6DD-411C93420F46}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_Optics.bib</URL>
+    </Document>
+    <Document>
+      <ID>{EB508209-E928-4BE3-9243-CFC249627FC1}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_PhonDOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{80E2F6E2-1568-4AAC-A3CC-BDAB7417F16A}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_PhonDOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{919E80B7-D0C0-4E3E-B012-B9EC02C99105}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_PhonDisp.castep</URL>
+    </Document>
+    <Document>
+      <ID>{44B2EE71-AB06-466D-B720-F787C5406101}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3_PhonDisp.bib</URL>
+    </Document>
+    <Document>
+      <ID>{5B7A79AA-E5F0-4CBA-82B5-73FDD92C71DE}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{EB3F1621-6FF2-4A48-A0DF-78183C0FBB5C}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{F1947D27-97B6-46F3-87E6-945404090DFE}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{D56DCEB7-5BFC-4AD3-A923-83D7865A9706}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_BandStr.param</URL>
+    </Document>
+    <Document>
+      <ID>{FFE1303C-F5A4-4B80-B82B-7589179DA3C6}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_DOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{34B0C863-5B9B-4CB0-9886-1E16E465B71D}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_Optics.param</URL>
+    </Document>
+    <Document>
+      <ID>{A1E6598B-490E-4AB1-9AF3-AC7A68798856}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_PhonDisp.param</URL>
+    </Document>
+    <Document>
+      <ID>{46F5D2C4-9558-4917-B90D-B4B3359BC832}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_PhonDOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{5519E8DA-3DB2-42FD-87F9-C438D584FFB2}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{B4D7DCBA-1EF5-494E-9831-02E7AA33702B}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{70890D98-B23B-4787-A7FF-E9E4BEFA5335}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{D4002439-1C36-4FE8-AD9F-FD1D8E4AA092}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{0C4CAF0D-A290-4112-ABFC-FD1044CD7E30}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{A14D3CEC-E36C-4B58-9B9F-4C7BF43AB515}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{6EF73B7C-1FB3-45FC-BC3B-73704852EF76}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_BandStr.castep</URL>
+    </Document>
+    <Document>
+      <ID>{CA02C8A3-4742-4677-B24A-A7EBC20CD19D}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_BandStr.bib</URL>
+    </Document>
+    <Document>
+      <ID>{BB572241-316D-4D34-B6EC-F7A03F68C9C6}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_DOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{24A3B49C-B36A-4CA2-9A53-45F1F87D98F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_DOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{8778CA74-0BDB-47A2-AA59-93CC7B6762F9}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_Optics.castep</URL>
+    </Document>
+    <Document>
+      <ID>{D8A4F58B-CDED-4762-A2F4-7666B08B510B}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_Optics.bib</URL>
+    </Document>
+    <Document>
+      <ID>{E3CAC1E9-1227-40C3-8D9A-B2FC793AF1A2}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_PhonDOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{E5DCE08D-1BFD-4A95-9E40-2A66A30ED676}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_PhonDOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{309F2BA5-BFFC-426D-A260-0159CD3D55D9}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_PhonDisp.castep</URL>
+    </Document>
+    <Document>
+      <ID>{4737A46B-45DE-4F9D-A243-F73CDC0D6FD3}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3_PhonDisp.bib</URL>
+    </Document>
+    <Document>
+      <ID>{14B9953C-D553-4A85-835B-1D0A97E3DF71}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{9C16E681-45C0-4B4D-9996-44058511738A}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{6CEF8544-8AEF-4308-801F-A3CDD664643F}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{9C46F63C-79FF-4B17-8F35-42AE21916F49}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_BandStr.param</URL>
+    </Document>
+    <Document>
+      <ID>{27BFB356-24AD-4FEA-9642-3FBC19AFC5A5}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_DOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{84A3E161-536A-4170-8177-CEE6FF53FBFB}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_Optics.param</URL>
+    </Document>
+    <Document>
+      <ID>{587D8EA3-B8B8-4DA1-852C-E6036605A883}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_PhonDisp.param</URL>
+    </Document>
+    <Document>
+      <ID>{72A39042-0AB0-4122-94BB-17992FA8F4CE}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_PhonDOS.param</URL>
+    </Document>
+    <Document>
+      <ID>{9F727B89-8F1B-4930-92D3-ED8F8ABD7AD3}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{4278C687-E8C8-4690-99C5-503E4F419487}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A1E37EFB-7E12-47CD-B958-4E2C06C62BDD}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{7B8059AE-E2A3-4B1C-8808-5DB70D83FB7E}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8C64B881-8682-4588-B592-F900D2FB92BA}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{0702B267-2D65-47FB-B36B-ECD46230692B}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{584105DA-8185-4CA1-B3E8-A168273C04A6}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_BandStr.castep</URL>
+    </Document>
+    <Document>
+      <ID>{5B75FD86-D003-4D32-BF38-F61EBA120C24}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_BandStr.bib</URL>
+    </Document>
+    <Document>
+      <ID>{EF98086E-C6A9-4165-8F93-593A9D1E60BF}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_DOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{38DBAA1A-2916-4810-9523-F3C90D937EFC}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_DOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{4ED9C816-43AF-4CF3-9370-AF3CD90B8FE2}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_Optics.castep</URL>
+    </Document>
+    <Document>
+      <ID>{1E885958-0DA5-46DF-99B1-A3F7D2CACCBA}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_Optics.bib</URL>
+    </Document>
+    <Document>
+      <ID>{7F2ED990-EDF1-41CC-902B-DA74E800DFB2}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_PhonDOS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{07E7DF51-16F4-448E-B957-89D0947B7B6A}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_PhonDOS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{F2D75631-D014-4B09-B4A4-9A20C9FD6B46}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_PhonDisp.castep</URL>
+    </Document>
+    <Document>
+      <ID>{1D9581BF-5647-47EC-982E-3BF60A84D022}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3_PhonDisp.bib</URL>
+    </Document>
+    <Document>
+      <ID>{C69132A1-8DBC-420F-B9E3-8DDC7ECB5BBA}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{BFDC648A-70CB-4BFA-834F-C73DDD4EA272}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2BF6D908-4B53-439A-AA6D-644A07CB1B28}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.param</URL>
+    </Document>
+    <Document>
+      <ID>{7254E161-4F3C-42EA-ABEE-D28D4501E4C9}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.param</URL>
+    </Document>
+    <Document>
+      <ID>{4EDF5473-9CB0-46B1-8130-48BD5E56222B}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.param</URL>
+    </Document>
+    <Document>
+      <ID>{A7FEDB42-BBDB-4B79-A493-172605EDD282}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.param</URL>
+    </Document>
+    <Document>
+      <ID>{F378B872-7FFB-4C68-AB4D-C77F579801B9}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{78D467A5-E131-4A50-B1DE-61AEE6AEFC3F}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{B800FB7E-6E52-466A-A26A-E9E2B7B344C9}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{1F6B63C9-EE06-481B-A116-EE653B53F768}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{C8E7FED8-A946-42F3-9C1B-2011144FD2F6}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.castep</URL>
+    </Document>
+    <Document>
+      <ID>{04EB2CBD-9F1C-4267-86A3-BCC4B7E33FAC}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.bib</URL>
+    </Document>
+    <Document>
+      <ID>{CA7DCC41-5639-4E31-8B88-91CCFA55F99D}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.castep</URL>
+    </Document>
+    <Document>
+      <ID>{2151F9EB-00B4-496C-A72A-D308BBC1ACEB}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.bib</URL>
+    </Document>
+    <Document>
+      <ID>{CE629CAC-0560-4221-87A8-5D693E9C6AC0}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{9124A3E4-E872-4CD1-BC7F-E6DC185424FB}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{04E3DC22-BFA4-4DAD-8FF1-7862451C2D63}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.castep</URL>
+    </Document>
+    <Document>
+      <ID>{B016A58F-6949-4494-8788-5E38A7348AFD}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.bib</URL>
+    </Document>
+    <Document>
+      <ID>{FC1E5A3A-5479-494F-9B9B-0B2F8BC578D0}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{6C284AF8-5D18-4E88-9BB5-46D8DA369F61}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{212D8864-253E-4BBF-BB98-78B64B5BE81F}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.param</URL>
+    </Document>
+    <Document>
+      <ID>{8AEAB0A3-3C09-4183-9E06-7E5ACED601CA}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.param</URL>
+    </Document>
+    <Document>
+      <ID>{FEC7F88B-2A72-4E2A-92B0-4D5EDD7B56EB}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.param</URL>
+    </Document>
+    <Document>
+      <ID>{008E7B66-698B-4A3B-A45C-34777A7315F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.param</URL>
+    </Document>
+    <Document>
+      <ID>{E4D38D8F-3167-41EB-9AB8-E2E5D1967370}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{6BB6CA9D-72EF-43A8-ADCB-8F89806EF4FF}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{1748D298-2960-46CA-97A8-B62A95647024}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{31EE05C3-394F-4802-A34E-CA11673C1734}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{FE2DA96B-32E5-4CA0-9588-021D03FE9F13}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.castep</URL>
+    </Document>
+    <Document>
+      <ID>{A7CD96E9-4645-4EE6-AD76-3AECC7846EF1}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.bib</URL>
+    </Document>
+    <Document>
+      <ID>{82C3B3C8-0513-470A-AF8C-50A4EA820C4A}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.castep</URL>
+    </Document>
+    <Document>
+      <ID>{AF5C063E-386E-4709-B298-FDEE49B3E765}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.bib</URL>
+    </Document>
+    <Document>
+      <ID>{38FD0450-4C54-467A-8824-5A3B016CE05D}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{106A9D49-7784-4C53-BC5D-C0C103B851F6}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{35E4CB27-5155-4E82-98C5-CE50A9BDE299}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.castep</URL>
+    </Document>
+    <Document>
+      <ID>{9C320794-CE43-4BCD-9936-D0B8D7987118}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.bib</URL>
+    </Document>
+    <Document>
+      <ID>{D4E525B0-7383-4CC5-8FC7-5CE9CDE166F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{5604C5C6-BD47-4CE3-97AF-43EA4498E040}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B9B9BD75-DF9D-4898-8616-13758E137E77}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.param</URL>
+    </Document>
+    <Document>
+      <ID>{9B2D332A-2279-42C0-9A12-2C63B1B4AA57}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.param</URL>
+    </Document>
+    <Document>
+      <ID>{0B3FC04E-31DE-49EF-A95E-82A2C26EC31D}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.param</URL>
+    </Document>
+    <Document>
+      <ID>{80FE5A50-D2E0-46B4-B492-7ED9AD2FCE92}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.param</URL>
+    </Document>
+    <Document>
+      <ID>{31ECDFD1-9647-40BB-AB99-801FF6CB87DA}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{C1ACAE7F-3294-4BB9-9C6F-3E5757E8CBED}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{2FC731C2-BABB-4BDF-BAAF-D9FB37B5E625}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{D0B451DA-625F-4834-8EA8-FF26E0892910}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{7DC63F26-B4CE-4CB3-AD0D-A39F1A20F094}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.castep</URL>
+    </Document>
+    <Document>
+      <ID>{874313D9-B315-422C-8E40-17A46F8C3026}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.bib</URL>
+    </Document>
+    <Document>
+      <ID>{3BD2BAEF-0810-47B6-9686-7A4A4127959D}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.castep</URL>
+    </Document>
+    <Document>
+      <ID>{F5DDBE5B-74D0-4547-BB9B-078AFF7A7F4C}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.bib</URL>
+    </Document>
+    <Document>
+      <ID>{CAEBEAF4-D10A-4374-A01B-94701835C039}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{189A0F53-7B48-4FC0-979F-E5D0D1D8ACC9}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{E84C4399-721F-40A5-B6C3-6C40F27E3012}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.castep</URL>
+    </Document>
+    <Document>
+      <ID>{CA84F9C2-8C07-45BD-B98E-670AFA0FBC14}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.bib</URL>
+    </Document>
+    <Document>
+      <ID>{FC53737B-F562-4289-AEDE-7E728004A515}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{8B70EA81-9B46-4771-8A19-F1F2C97A4044}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{CD1EF2AB-F4E4-4A70-A11B-F8D251662459}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.param</URL>
+    </Document>
+    <Document>
+      <ID>{4DA7433D-6ECB-4A4F-BB50-F40A2ED7D33C}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.param</URL>
+    </Document>
+    <Document>
+      <ID>{ED13CEAD-7BB4-4F45-BA9C-2425EB0D7CF6}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.param</URL>
+    </Document>
+    <Document>
+      <ID>{1D05F741-F3CC-459E-86EA-3A5B76D5A452}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.param</URL>
+    </Document>
+    <Document>
+      <ID>{28E732A6-8CB3-4FA4-905E-32A590A40CE3}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{109C5FC0-133B-47B3-B045-269817967771}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{10A247BD-F143-465D-87D6-CFCC1D3DCA52}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{84CC9DD5-7EFD-4709-872C-5C6717922827}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{DE4043A1-99A3-4AED-9E6F-96F1521A4800}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.castep</URL>
+    </Document>
+    <Document>
+      <ID>{46E7F4E9-D6FC-418A-BC53-F9328311F0B8}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__1.bib</URL>
+    </Document>
+    <Document>
+      <ID>{91E33022-CD10-4027-8ECF-B9891F9D07D6}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.castep</URL>
+    </Document>
+    <Document>
+      <ID>{026EA870-DB27-4192-899E-1F7805F6889F}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__2.bib</URL>
+    </Document>
+    <Document>
+      <ID>{2575E25C-6D60-40AC-8862-4388B8467B97}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{D1B6D996-079E-478D-ACA8-E51AD906EC8F}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{E0405988-FA96-4305-8C60-FF3BBC38E830}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.castep</URL>
+    </Document>
+    <Document>
+      <ID>{19A8D3DA-2E97-44FF-972F-2A2ABC759E26}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP Cij\BaCeO3_cij__1__4.bib</URL>
+    </Document>
+    <Document>
+      <ID>{CAC3F0C6-3595-4851-97AC-A02E772219D7}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{2C257971-4A6F-47A9-B23E-624B5CC802E4}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{0EFCA5B4-576E-4C54-8B00-D390289F5878}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{A629F5A1-4DCF-442A-99D6-D1353EB4CBF7}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.param</URL>
+    </Document>
+    <Document>
+      <ID>{1900BA67-F186-4208-A795-1DFD88AF06FD}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{46901809-73E7-4893-BA2E-F7AF4DA9C83F}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4A6F81F2-4772-487B-9897-745101FDA032}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{9365F214-3B46-4D01-A519-56315144B526}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{868E7139-A6EF-48D8-84C5-91CE4BB3BA58}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{998F046C-D9BC-4177-9A33-D49B7BD9F218}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{F6DB6997-BC16-46BF-84C3-071F7D581B3D}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{A97B83AB-1898-480B-9934-6F1E2D57C77E}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{D30637C4-5B94-4490-9187-65C7297BC0F5}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{D929E02C-7786-4E01-A136-9876B6F80B92}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{C1504F0B-B60A-4D8A-BB58-88848CCD4B8F}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{A288C3F2-D6E0-499C-A69E-30F7E0433E85}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.param</URL>
+    </Document>
+    <Document>
+      <ID>{3E92F5F8-DAC5-43FB-AAA7-7D7799B66C67}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{3C51255B-A596-4D7D-B650-88B36B689FAD}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{20742F9B-42C8-4022-99CE-C120F18CF03D}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{7FCEDB56-8E26-435E-867E-E060AB9FCA05}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{C734C839-6D55-4447-A3A1-4950877F68AE}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{9ED09415-F124-4EB1-B979-AE49C1B60602}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{1697CC49-CC95-43FC-B60C-5C00B8548A74}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{7D5EA12E-F667-48C8-A9F0-4CFE48CA4BCF}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{6B5DF3C1-0031-441B-A03D-BC0D127116D5}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{F3A0D436-3C88-46D4-BA54-1D1E393440D7}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{6B154274-4FB2-4BA3-BF3C-0CF64A353394}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{EEC5892F-C5F4-4912-9C7D-7ECEE2EE2F94}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.param</URL>
+    </Document>
+    <Document>
+      <ID>{B19608CB-9B7F-4287-BA01-372E60574ED1}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{EA4997DC-6C30-4F3B-A3C7-5435A5758F64}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{EBF17D73-8FDB-44F2-9AA6-844F47C10064}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{D3A0E02A-1A7C-46C0-98F0-A450C2448B82}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{64BE8F92-D552-4299-9A49-023466406C6C}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{EA689EFF-28E1-4981-92F7-113B07344DD0}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{EAFF88B5-E055-43B0-858E-56A16A08530A}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{76EBEEB1-951F-4A2F-B639-675F3BBA4C79}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{5F78EB85-C16C-4FB0-8530-009EC74B66EE}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.param</URL>
+    </Document>
+    <Document>
+      <ID>{EE7CFC4C-D867-4774-8E82-BFA7A1AF01C7}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{570C0FA0-A37B-4EBC-9E6F-C137AAB50EFE}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{009B7ED4-0873-4E04-8768-A39B79B6AD67}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.param</URL>
+    </Document>
+    <Document>
+      <ID>{14785DD3-802C-4ECF-9145-A7A803C3C914}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\SMCastep_Extension_BaCeO3.xms</URL>
+    </Document>
+    <Document>
+      <ID>{F5B518FE-7D5A-48BB-80AF-5A76CDF77CD8}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{55208AED-1D90-4081-B248-99882228F1B2}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{2F208D97-1395-407E-B2C7-7DD70E349426}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B0A23B67-DA9B-4121-BAB2-EF0844474963}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.castep</URL>
+    </Document>
+    <Document>
+      <ID>{8AC6186E-A0C7-4409-A5A5-6DF0C3603B80}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3.bib</URL>
+    </Document>
+    <Document>
+      <ID>{10FF82EE-FDF2-4060-BA3A-A8A831A0F2D0}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.castep</URL>
+    </Document>
+    <Document>
+      <ID>{7D43F880-32C6-49EA-8E1B-5E385039E0B8}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3_EELS.bib</URL>
+    </Document>
+    <Document>
+      <ID>{2E22B516-E219-4288-866E-D27D2681F092}</ID>
+      <Paths>1</Paths>
+      <URL>.\BaCeO3 Supercell.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{55CE3A84-F6A0-47AB-A448-39C7ED9FA7BA}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell.param</URL>
+    </Document>
+    <Document>
+      <ID>{8E0AF1B3-046B-48BD-881E-580552D0D333}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{9673637A-AE96-4A44-B0E6-FD858D71B2AB}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{2450DE5B-12A1-4B0A-B1B3-D97B87D12EF2}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\SMCastep_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{D184C559-6F76-453A-BDCF-1E6D5F5D1FC9}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{F4EA8DDD-2902-4E98-BEC9-668F83BD877A}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B6365E93-A786-44A4-A312-19CC0906C952}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3B7526C4-F60E-4F39-8EAB-7D33277B47FF}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell.castep</URL>
+    </Document>
+    <Document>
+      <ID>{4027702F-B4B2-4AE9-8BDB-2B2C0A6294AB}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell.bib</URL>
+    </Document>
+    <Document>
+      <ID>{DD649274-D455-4F74-B355-23ECCD6DD82C}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell.param</URL>
+    </Document>
+    <Document>
+      <ID>{E1681886-0107-4486-8CE9-C4E3639661B9}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{23AC18F3-A0EC-41C3-9164-5D53B63412E8}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{5515AF30-588F-4ACE-8555-A74AA161D8DD}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\SMCastep_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{5E1DC679-9CEC-4424-AF77-E34026CE33D4}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{CCDD4D82-0DCA-480C-A2E8-3CDFEFF7F7DF}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F69FEA6B-720C-410F-90A8-65BF6831DAFE}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{871F2F71-3F30-4AF2-8214-7DA974AE345C}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell.castep</URL>
+    </Document>
+    <Document>
+      <ID>{C65154E0-30B9-47CF-B5D1-D65C0F23643C}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell.bib</URL>
+    </Document>
+    <Document>
+      <ID>{117BDCA6-9442-4F34-BDC6-83349F8447DC}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell.param</URL>
+    </Document>
+    <Document>
+      <ID>{840943EF-EFC5-4234-8BFF-EA786780BE9D}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{CBA6B94F-2525-4AC9-81A1-DBC4D8D65DF2}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{49172AAE-E5F2-47F0-B466-A6FD7E3C6FB3}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\SMCastep_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{9C3EA5C0-158B-4414-B7BB-29EBF553349F}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{C8574899-8B20-4309-AD30-853A93F7968F}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{9DB784AE-A68F-44F7-A935-BC507C75267D}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{1A9BB698-5EF4-445D-8B43-9CC0A5651C03}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell.castep</URL>
+    </Document>
+    <Document>
+      <ID>{C628585B-8FF4-40D4-A649-E381C641ACA2}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell.bib</URL>
+    </Document>
+    <Document>
+      <ID>{48353436-5626-4024-BA21-0B31F82F4F4B}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell.param</URL>
+    </Document>
+    <Document>
+      <ID>{AD635690-4DA9-4AD7-BF0E-103C2AF8CBBD}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{5C6E3700-9A78-43EF-9ED4-81726AD373CC}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{DC9B920E-33E0-44A8-8949-20E5EB950420}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\SMCastep_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{79BEA29F-6EF6-4574-8837-3F2EDE45813E}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{CF5CC832-9404-4C22-8F1D-1D84A5BCD79D}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{24E506C2-D6FF-4A38-8483-90A5A37A8460}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B38BF63D-B511-478F-85AD-20EBF43C81D5}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell.castep</URL>
+    </Document>
+    <Document>
+      <ID>{817C8FB7-2C0A-49F1-A195-97D48D5CA671}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell.bib</URL>
+    </Document>
+    <Document>
+      <ID>{9BEAC8B0-776A-48B9-BBDC-0D2B30814DBD}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4D2E4D93-E346-4D85-BC65-DBE475EC60C1}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\SMForcite_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{E9FFF649-3BE6-4750-93A7-32B673AA6878}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{9204A8C7-1B91-43A2-B2E7-0CA6EF6BA4B5}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{73428E0F-64AF-47DE-B4A8-1C9F08D389D3}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{7936C718-C5CF-4464-AD18-CD4EF56AEE0B}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Cell.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{137AFFEB-904D-4175-A70B-723295D0FA40}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Density.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{4EE172EC-69AA-40EB-AD14-7815292DFAE0}</ID>
+      <Paths>1</Paths>
+      <URL>.\5-BaCeO3 Supercell CASTEP GeomOpt 0GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4953641B-936E-4E27-B137-B25329E8B1A6}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{60F41FA7-6B0F-419C-8E95-22BF722B2A7A}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\SMForcite_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{653194E5-6C05-4CED-898F-AF3B6821E80C}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Cell.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{381E271F-E1EC-4829-809D-58BF1D83EB3C}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{42BC0A31-2EE8-4BDA-BE44-ED69E192CA53}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Density.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3767E7A9-161C-4472-B5A3-AC82C8CD907D}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{C40FEEBD-B2DE-4E6E-B012-6B72D5C83B3F}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4A03F4F1-9D1E-4C27-B4BD-C723D35F9FB9}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4DBD7284-D4B7-473B-B02B-3B3FDED16040}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2C5A1548-001A-4856-953E-A9D460607B77}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\SMForcite_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{C95394A7-72A9-42E2-9CCA-EE7618783650}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{0516692E-A55A-473D-8771-4D47774BF4B2}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F2BEB6CB-4AAB-455F-BD8B-38AA648A8E24}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{39F4C685-6BE4-4554-8803-77B29F8AD68A}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Cell.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{88B5F783-E825-4FD6-A5C9-E5DB34FA88F9}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Density.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{700AC2DF-0866-42EC-9A25-4FCCDB821860}</ID>
+      <Paths>1</Paths>
+      <URL>.\7-BaCeO3 Supercell CASTEP GeomOpt 50GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FDD989AF-1599-4767-AEC5-8CAE5E87B3AD}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4AAFA91C-74FE-4D77-A412-C09273250A33}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\SMForcite_Extension_BaCeO3 Supercell.xms</URL>
+    </Document>
+    <Document>
+      <ID>{3A57C5C6-BE2E-4D8B-A82C-9599C5B54650}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A7256615-8372-446D-A9B1-C389FE5EED83}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{BE198EAE-40B4-4716-9FD4-20C39E6159AD}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8A30E2F0-7F0D-4341-A51F-58C4C4639857}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Cell.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{239D92F2-1761-4430-ABA9-57DF61F99E97}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Density.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{E6E2BEE2-8A58-4186-9042-B1F13A1202AD}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell.txt</URL>
+    </Document>
+    <Document>
+      <ID>{72402697-36BB-4D34-A101-AA580C0DA2B9}</ID>
+      <Paths>1</Paths>
+      <URL>.\1-BaCeO3 CASTEP GeomOpt 0GPa\BaCeO3 PDOS (3).xcd</URL>
+    </Document>
+    <Document>
+      <ID>{97C2FE86-89E6-477A-8B7A-50F92570586F}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 PDOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5932C168-6676-45D8-98F3-64F8D28DAD96}</ID>
+      <Paths>1</Paths>
+      <URL>.\2-BaCeO3 CASTEP GeomOpt 25GPa\BaCeO3 Optical Properties (5).xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B3A117A9-F0FD-4417-87A5-28B84F0B4FA3}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 Optical Properties (4).xgd</URL>
+    </Document>
+    <Document>
+      <ID>{48B2F9DF-1CA7-4727-8CB3-946029B53EFA}</ID>
+      <Paths>1</Paths>
+      <URL>.\3-BaCeO3 CASTEP GeomOpt 50GPa\BaCeO3 Optical Properties (5).xcd</URL>
+    </Document>
+    <Document>
+      <ID>{132E9913-7D49-4FD3-AE09-143C8CA78AAC}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 Optical Properties (2).xgd</URL>
+    </Document>
+    <Document>
+      <ID>{190ABBFE-F8C1-454F-A342-A36597CEE990}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 EELS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B25E8316-A9FE-444E-8775-FEDBFF8E3AFD}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 EELS (3).xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F03C8A13-78D8-48B4-A679-F6011D76A2D1}</ID>
+      <Paths>1</Paths>
+      <URL>.\4-BaCeO3 CASTEP GeomOpt 100GPa\BaCeO3 CASTEP GeomOpt\BaCeO3 EELS (4).xcd</URL>
+    </Document>
+    <Document>
+      <ID>{C31490EE-B536-4226-9313-A85EA743A5A3}</ID>
+      <Paths>1</Paths>
+      <URL>.\6-BaCeO3 Supercell CASTEP GeomOpt 25GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Forcite Scatter XRay.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{623332C0-2211-48E5-B263-495160C0F8C1}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Forcite Scatter XRay.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{273E0AD5-04E1-4D44-8870-317EF00CAD24}</ID>
+      <Paths>1</Paths>
+      <URL>.\8-BaCeO3 Supercell CASTEP GeomOpt 100GPa\BaCeO3 Supercell Forcite GeomOpt\BaCeO3 Supercell Forcite Scatter XRay.std</URL>
+    </Document>
+  </DocumentManager>
+  <ViewRegistry>
+  </ViewRegistry>
+  <DocumentEventManager>
+    <DocumentRelation>
+      <DocRef1>{FC2D1698-A1E2-487D-BB2C-D74095E565B4}</DocRef1>
+      <DocRef2>{E3CEC38A-3BDB-42B7-9661-346A93066DB4}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E3CEC38A-3BDB-42B7-9661-346A93066DB4}</DocRef1>
+      <DocRef2>{FC2D1698-A1E2-487D-BB2C-D74095E565B4}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4009D306-A415-4BB5-B252-E70C222A9E9B}</DocRef1>
+      <DocRef2>{E3CEC38A-3BDB-42B7-9661-346A93066DB4}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E3CEC38A-3BDB-42B7-9661-346A93066DB4}</DocRef1>
+      <DocRef2>{4009D306-A415-4BB5-B252-E70C222A9E9B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{3E071B98-6497-4B02-BD57-CE6360772867}</DocRef1>
+      <DocRef2>{8D1FB73B-A5AB-401E-B945-06E6C7E52723}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8D1FB73B-A5AB-401E-B945-06E6C7E52723}</DocRef1>
+      <DocRef2>{3E071B98-6497-4B02-BD57-CE6360772867}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{007359DE-FA9D-409F-85F8-FA8AE738A076}</DocRef1>
+      <DocRef2>{8D1FB73B-A5AB-401E-B945-06E6C7E52723}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8D1FB73B-A5AB-401E-B945-06E6C7E52723}</DocRef1>
+      <DocRef2>{007359DE-FA9D-409F-85F8-FA8AE738A076}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{70890D98-B23B-4787-A7FF-E9E4BEFA5335}</DocRef1>
+      <DocRef2>{F1947D27-97B6-46F3-87E6-945404090DFE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F1947D27-97B6-46F3-87E6-945404090DFE}</DocRef1>
+      <DocRef2>{70890D98-B23B-4787-A7FF-E9E4BEFA5335}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{D4002439-1C36-4FE8-AD9F-FD1D8E4AA092}</DocRef1>
+      <DocRef2>{F1947D27-97B6-46F3-87E6-945404090DFE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F1947D27-97B6-46F3-87E6-945404090DFE}</DocRef1>
+      <DocRef2>{D4002439-1C36-4FE8-AD9F-FD1D8E4AA092}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{A1E37EFB-7E12-47CD-B958-4E2C06C62BDD}</DocRef1>
+      <DocRef2>{6CEF8544-8AEF-4308-801F-A3CDD664643F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{6CEF8544-8AEF-4308-801F-A3CDD664643F}</DocRef1>
+      <DocRef2>{A1E37EFB-7E12-47CD-B958-4E2C06C62BDD}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{7B8059AE-E2A3-4B1C-8808-5DB70D83FB7E}</DocRef1>
+      <DocRef2>{6CEF8544-8AEF-4308-801F-A3CDD664643F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{6CEF8544-8AEF-4308-801F-A3CDD664643F}</DocRef1>
+      <DocRef2>{7B8059AE-E2A3-4B1C-8808-5DB70D83FB7E}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4A6F81F2-4772-487B-9897-745101FDA032}</DocRef1>
+      <DocRef2>{0EFCA5B4-576E-4C54-8B00-D390289F5878}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{0EFCA5B4-576E-4C54-8B00-D390289F5878}</DocRef1>
+      <DocRef2>{4A6F81F2-4772-487B-9897-745101FDA032}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{9365F214-3B46-4D01-A519-56315144B526}</DocRef1>
+      <DocRef2>{0EFCA5B4-576E-4C54-8B00-D390289F5878}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{0EFCA5B4-576E-4C54-8B00-D390289F5878}</DocRef1>
+      <DocRef2>{9365F214-3B46-4D01-A519-56315144B526}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{20742F9B-42C8-4022-99CE-C120F18CF03D}</DocRef1>
+      <DocRef2>{C1504F0B-B60A-4D8A-BB58-88848CCD4B8F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{C1504F0B-B60A-4D8A-BB58-88848CCD4B8F}</DocRef1>
+      <DocRef2>{20742F9B-42C8-4022-99CE-C120F18CF03D}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{7FCEDB56-8E26-435E-867E-E060AB9FCA05}</DocRef1>
+      <DocRef2>{C1504F0B-B60A-4D8A-BB58-88848CCD4B8F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{C1504F0B-B60A-4D8A-BB58-88848CCD4B8F}</DocRef1>
+      <DocRef2>{7FCEDB56-8E26-435E-867E-E060AB9FCA05}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EBF17D73-8FDB-44F2-9AA6-844F47C10064}</DocRef1>
+      <DocRef2>{6B154274-4FB2-4BA3-BF3C-0CF64A353394}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{6B154274-4FB2-4BA3-BF3C-0CF64A353394}</DocRef1>
+      <DocRef2>{EBF17D73-8FDB-44F2-9AA6-844F47C10064}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{D3A0E02A-1A7C-46C0-98F0-A450C2448B82}</DocRef1>
+      <DocRef2>{6B154274-4FB2-4BA3-BF3C-0CF64A353394}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{6B154274-4FB2-4BA3-BF3C-0CF64A353394}</DocRef1>
+      <DocRef2>{D3A0E02A-1A7C-46C0-98F0-A450C2448B82}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{55208AED-1D90-4081-B248-99882228F1B2}</DocRef1>
+      <DocRef2>{570C0FA0-A37B-4EBC-9E6F-C137AAB50EFE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{570C0FA0-A37B-4EBC-9E6F-C137AAB50EFE}</DocRef1>
+      <DocRef2>{55208AED-1D90-4081-B248-99882228F1B2}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{2F208D97-1395-407E-B2C7-7DD70E349426}</DocRef1>
+      <DocRef2>{570C0FA0-A37B-4EBC-9E6F-C137AAB50EFE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{570C0FA0-A37B-4EBC-9E6F-C137AAB50EFE}</DocRef1>
+      <DocRef2>{2F208D97-1395-407E-B2C7-7DD70E349426}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F4EA8DDD-2902-4E98-BEC9-668F83BD877A}</DocRef1>
+      <DocRef2>{9673637A-AE96-4A44-B0E6-FD858D71B2AB}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{9673637A-AE96-4A44-B0E6-FD858D71B2AB}</DocRef1>
+      <DocRef2>{F4EA8DDD-2902-4E98-BEC9-668F83BD877A}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{B6365E93-A786-44A4-A312-19CC0906C952}</DocRef1>
+      <DocRef2>{9673637A-AE96-4A44-B0E6-FD858D71B2AB}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{9673637A-AE96-4A44-B0E6-FD858D71B2AB}</DocRef1>
+      <DocRef2>{B6365E93-A786-44A4-A312-19CC0906C952}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{CCDD4D82-0DCA-480C-A2E8-3CDFEFF7F7DF}</DocRef1>
+      <DocRef2>{23AC18F3-A0EC-41C3-9164-5D53B63412E8}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{23AC18F3-A0EC-41C3-9164-5D53B63412E8}</DocRef1>
+      <DocRef2>{CCDD4D82-0DCA-480C-A2E8-3CDFEFF7F7DF}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F69FEA6B-720C-410F-90A8-65BF6831DAFE}</DocRef1>
+      <DocRef2>{23AC18F3-A0EC-41C3-9164-5D53B63412E8}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{23AC18F3-A0EC-41C3-9164-5D53B63412E8}</DocRef1>
+      <DocRef2>{F69FEA6B-720C-410F-90A8-65BF6831DAFE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{C8574899-8B20-4309-AD30-853A93F7968F}</DocRef1>
+      <DocRef2>{CBA6B94F-2525-4AC9-81A1-DBC4D8D65DF2}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{CBA6B94F-2525-4AC9-81A1-DBC4D8D65DF2}</DocRef1>
+      <DocRef2>{C8574899-8B20-4309-AD30-853A93F7968F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{9DB784AE-A68F-44F7-A935-BC507C75267D}</DocRef1>
+      <DocRef2>{CBA6B94F-2525-4AC9-81A1-DBC4D8D65DF2}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{CBA6B94F-2525-4AC9-81A1-DBC4D8D65DF2}</DocRef1>
+      <DocRef2>{9DB784AE-A68F-44F7-A935-BC507C75267D}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{CF5CC832-9404-4C22-8F1D-1D84A5BCD79D}</DocRef1>
+      <DocRef2>{5C6E3700-9A78-43EF-9ED4-81726AD373CC}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{5C6E3700-9A78-43EF-9ED4-81726AD373CC}</DocRef1>
+      <DocRef2>{CF5CC832-9404-4C22-8F1D-1D84A5BCD79D}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{24E506C2-D6FF-4A38-8483-90A5A37A8460}</DocRef1>
+      <DocRef2>{5C6E3700-9A78-43EF-9ED4-81726AD373CC}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{5C6E3700-9A78-43EF-9ED4-81726AD373CC}</DocRef1>
+      <DocRef2>{24E506C2-D6FF-4A38-8483-90A5A37A8460}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+  </DocumentEventManager>
+</Project>
